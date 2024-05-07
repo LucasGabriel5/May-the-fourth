@@ -9,26 +9,13 @@
 Desenvolvimento de uma API completa, fornecendo recursos como criação, leitura, atualização e exclusão de dados referentes ao universo **Star Wars**.
 
 ## Participantes
-### 🚀 Capitão
-[NOME e GITHUB]
-
-### 💂‍♀️ Batalhão
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
+[Lucas]
 
 ## ⚙️ Tecnologias
 * C# 12
 * .NET 8
 * ASP.NET
 * Minimal APIs
-
-## 🥋 Skills Desenvolvidas
-* Comunicação
-* Trabalho em Equipe
-* Networking
-* Muito conhecimento técnico
 
 ## 🧪 Como testar o projeto
 [DESCREVER COMO EXECUTAR O PROJETO]
